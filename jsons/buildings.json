@@ -1,1 +1,11 @@
-
+[
+      {		
+        "name": "Church",	
+        "replaces": "Temple",	
+        "uniqueTo": "Rome", 	
+        "cityStrength": 8,	
+        "cityHealth": 50,		
+        "hurryCostModifier": 20, 
+        "cost": 30,	
+        "requiredBuilding": "Farm",	
+        "requiredTech": "Pottery"	},
