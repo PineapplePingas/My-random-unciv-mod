@@ -8,4 +8,5 @@
         "hurryCostModifier": 20, 
         "cost": 30,	
         "requiredBuilding": "Farm",	
-        "requiredTech": "Pottery"	},
+        "requiredTech": "Pottery"
+      },
