@@ -7,3 +7,13 @@
      "improvement": "Pasture",	
      "improvementStats": {"food": 1}
     },
+      {		
+          "name": "Camel",	
+          "resourceType": "Bonus",
+           "revealedBy": "Animal Husbandry",
+           "terrainsCanBeFoundOn": ["Hill","Desert","Flood Plains"],
+           "food": 2,	
+           "improvement": "Pasture",	
+           "improvementStats": {"food": 1}
+
+       },
