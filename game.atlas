@@ -2,7 +2,7 @@ game.png
 size: 2048,
 1024format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinearrepeat:
-
+repeat: none
 noneBuildingIcons/Church 
 rotate: false 
 xy: 4, 720
