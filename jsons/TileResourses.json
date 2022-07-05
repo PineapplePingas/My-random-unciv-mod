@@ -1,1 +1,9 @@
-
+[
+    {		"name": "Goat",	
+     "resourceType": "Bonus",
+     "revealedBy": "Animal Husbandry",
+     "terrainsCanBeFoundOn": ["Hill","Desert","Grassland","Plains","Flood Plains"],
+     "food": 2,	
+     "improvement": "Pasture",	
+     "improvementStats": {"food": 1}
+    },
