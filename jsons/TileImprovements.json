@@ -1,1 +1,11 @@
-
+[
+  {		
+    "name": "Deez Nuts Factory",
+    "food": 3,	 	
+    "gold": 3,
+    "happiness": 5,
+    "turnsToBuild": 2,
+    "techRequired": "Biology",
+    "improvingTech": "Industrialization",
+    "improvingTechStats": {"prdouction":2}	
+  },
