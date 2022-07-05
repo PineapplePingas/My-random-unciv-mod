@@ -1,1 +1,12 @@
+game.png
+size: 2048,
+1024format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinearrepeat:
 
+noneBuildingIcons/Church 
+rotate: false 
+xy: 4, 720
+size: 250, 250
+orig: 250, 250
+offset: 0, 0
+index: -1
