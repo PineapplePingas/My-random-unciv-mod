@@ -25,6 +25,8 @@
     "outerColor": [113, 255, 0],"innerColor": [255, 255, 255],
     "uniqueName": "Holy Prayers and Old Nukes",
     "uniques": ["[+10]% [Faith] [in all cities] <During Ramadan>","[+20]% Production when constructing [Culture] buildings [in all cities]","[+50]% Production when constructing [Library] buildings [in all cities]","[+50]% Production when constructing [Mosque] buildings [in all cities]"],
-    "cities": ["Tehran","Mashhad","Bandar-e-Abbas","Kerman","Kermanshah","Tabriz","Abadan","Isfahan","Qom",]},
-
+    "cities": ["Tehran","Mashhad","Bandar-e-Abbas","Kerman","Kermanshah","Tabriz","Abadan","Isfahan","Qom"]
+},
+  
+  
 
