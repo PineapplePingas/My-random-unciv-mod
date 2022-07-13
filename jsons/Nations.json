@@ -58,5 +58,19 @@
                "[+5]% Production when constructing [Culture] buildings [in all cities]",
                "[+50]% Production when constructing [Library] buildings [in all cities]",
                "[+50]% Faith when constructing [Mosque] buildings [in all cities]"],
-   "cities": ["Islamabad","Lahore","Karachi","Hyderabad","Quetta",]   
+   "cities": ["Islamabad","Lahore","Karachi","Hyderabad","Quetta"]   
+   
  },
+
+  {		"name": "Syria",
+   "adjective": ["Syrian"],		
+   "cityStateTy" "Militaristic",
+   "startBias": ["Desert"],
+"declaringWar": "You leave us no choice. War it must be.",
+"attacked": "Very well, this shall not be forgotten. For bashar! Allahu Akbar!",
+"defeated": "How could we fall to the likes of you?! Bashar must've fallen asleep.",
+"outerColor": [0, 0, 0],
+"innerColor": [242, 92, 58],
+"cities": ["Damascus"]
+ },
+]
